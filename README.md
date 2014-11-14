@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-A tutorial repository
+A tutorial repository [here, here!]
